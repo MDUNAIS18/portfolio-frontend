@@ -20,7 +20,7 @@ const Skills = () => {
    
     {
       icon: Cloud,
-      title: "Cloud & DevOps",
+      title: "Cloud",
       skills: ["AWS", "Git", "GitHub"]
     },
     {
