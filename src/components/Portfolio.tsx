@@ -48,9 +48,7 @@ const Portfolio = () => {
               © 2025 Mohammed Unais. All rights reserved.
             </p>
             <div className="flex justify-center space-x-6 text-muted-foreground">
-              <span>Built with React & Tailwind CSS</span>
-              <span>•</span>
-              <span>Designed with ❤️</span>
+            
             </div>
           </div>
         </div>
